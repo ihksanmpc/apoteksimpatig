@@ -1,5 +1,5 @@
 ## About
-Aplikasi POS yang digunakan oleh APOTEK AJ Berkah Kota Samarinda
+Aplikasi POS 
 
 ### Requirements
 - HTML, CSS, dan Javascript
